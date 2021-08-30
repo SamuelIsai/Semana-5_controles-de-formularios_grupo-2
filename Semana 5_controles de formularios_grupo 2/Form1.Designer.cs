@@ -49,7 +49,7 @@ namespace Semana_5_controles_de_formularios_grupo_2
             // 
             this.baceptar.BackColor = System.Drawing.Color.Aqua;
             this.baceptar.Font = new System.Drawing.Font("Segoe UI", 14F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.baceptar.Location = new System.Drawing.Point(81, 166);
+            this.baceptar.Location = new System.Drawing.Point(70, 166);
             this.baceptar.Name = "baceptar";
             this.baceptar.Size = new System.Drawing.Size(210, 70);
             this.baceptar.TabIndex = 0;
@@ -61,7 +61,7 @@ namespace Semana_5_controles_de_formularios_grupo_2
             // 
             this.bcancel.BackColor = System.Drawing.Color.Aqua;
             this.bcancel.Font = new System.Drawing.Font("Segoe UI", 14F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.bcancel.Location = new System.Drawing.Point(337, 166);
+            this.bcancel.Location = new System.Drawing.Point(328, 166);
             this.bcancel.Name = "bcancel";
             this.bcancel.Size = new System.Drawing.Size(210, 70);
             this.bcancel.TabIndex = 1;
@@ -73,7 +73,7 @@ namespace Semana_5_controles_de_formularios_grupo_2
             // 
             this.bSi_No.BackColor = System.Drawing.Color.Aqua;
             this.bSi_No.Font = new System.Drawing.Font("Segoe UI", 14F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.bSi_No.Location = new System.Drawing.Point(595, 166);
+            this.bSi_No.Location = new System.Drawing.Point(586, 166);
             this.bSi_No.Name = "bSi_No";
             this.bSi_No.Size = new System.Drawing.Size(210, 70);
             this.bSi_No.TabIndex = 2;
@@ -85,7 +85,7 @@ namespace Semana_5_controles_de_formularios_grupo_2
             // 
             this.bexclamacion.BackColor = System.Drawing.Color.Aqua;
             this.bexclamacion.Font = new System.Drawing.Font("Segoe UI", 14F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.bexclamacion.Location = new System.Drawing.Point(81, 263);
+            this.bexclamacion.Location = new System.Drawing.Point(70, 263);
             this.bexclamacion.Name = "bexclamacion";
             this.bexclamacion.Size = new System.Drawing.Size(210, 70);
             this.bexclamacion.TabIndex = 3;
@@ -97,7 +97,7 @@ namespace Semana_5_controles_de_formularios_grupo_2
             // 
             this.binterrogacion.BackColor = System.Drawing.Color.Aqua;
             this.binterrogacion.Font = new System.Drawing.Font("Segoe UI", 14F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.binterrogacion.Location = new System.Drawing.Point(337, 263);
+            this.binterrogacion.Location = new System.Drawing.Point(328, 263);
             this.binterrogacion.Name = "binterrogacion";
             this.binterrogacion.Size = new System.Drawing.Size(210, 70);
             this.binterrogacion.TabIndex = 4;
@@ -109,7 +109,7 @@ namespace Semana_5_controles_de_formularios_grupo_2
             // 
             this.berror.BackColor = System.Drawing.Color.Aqua;
             this.berror.Font = new System.Drawing.Font("Segoe UI", 14F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.berror.Location = new System.Drawing.Point(595, 263);
+            this.berror.Location = new System.Drawing.Point(586, 263);
             this.berror.Name = "berror";
             this.berror.Size = new System.Drawing.Size(210, 70);
             this.berror.TabIndex = 5;
